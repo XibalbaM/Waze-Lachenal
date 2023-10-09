@@ -3,6 +3,8 @@ pluginManagement {
         google()
         mavenCentral()
         gradlePluginPortal()
+        //Sonatype S01
+        maven("https://s01.oss.sonatype.org/content/repositories/snapshots")
     }
 }
 dependencyResolutionManagement {

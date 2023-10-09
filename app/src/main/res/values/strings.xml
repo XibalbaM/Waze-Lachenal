@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Waze Lachenal</string>
+    <string name="title_activity_timetable">TimetableActivity</string>
 </resources>
